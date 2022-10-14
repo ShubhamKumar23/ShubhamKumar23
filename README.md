@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamKumar23
 - 👀 I’m interested in coding ...Python and MATLAB
 - 🌱 I’m currently learning ...Geoscience
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Potential Field's Problems
 - 📫 How to reach me ...
 
 <!---
